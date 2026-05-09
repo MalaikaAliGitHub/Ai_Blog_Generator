@@ -1,2 +1,10 @@
+# Sensitive files
+.env
 APIkey.txt
+
+# Dependencies
 node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
