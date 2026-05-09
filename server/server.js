@@ -27,3 +27,6 @@ app.get("/", (req, res) => {
 app.listen(process.env.PORT, () => {
   console.log("Server running on port", process.env.PORT);
 });
+
+// Ye line lazmi add karein for deploy backend on vercel
+export default app;
